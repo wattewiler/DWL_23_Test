@@ -1,0 +1,1 @@
+This is a repository to store the first test of a regression model used in a project at HSLU
